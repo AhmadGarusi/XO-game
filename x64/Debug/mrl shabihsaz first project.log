@@ -1,0 +1,9 @@
+﻿  mrl shabihsaz first project.cpp
+E:\test c++\mrl shabihsaz first project\mrl shabihsaz first project\mrl shabihsaz first project.cpp(113,5): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\test c++\mrl shabihsaz first project\mrl shabihsaz first project\mrl shabihsaz first project.cpp(66,49): warning C4101: 'placec2': unreferenced local variable
+E:\test c++\mrl shabihsaz first project\mrl shabihsaz first project\mrl shabihsaz first project.cpp(67,10): warning C4101: 'place': unreferenced local variable
+E:\test c++\mrl shabihsaz first project\mrl shabihsaz first project\mrl shabihsaz first project.cpp(66,22): warning C4101: 'placer1': unreferenced local variable
+E:\test c++\mrl shabihsaz first project\mrl shabihsaz first project\mrl shabihsaz first project.cpp(66,61): warning C4101: 'j': unreferenced local variable
+E:\test c++\mrl shabihsaz first project\mrl shabihsaz first project\mrl shabihsaz first project.cpp(66,58): warning C4101: 'i': unreferenced local variable
+E:\test c++\mrl shabihsaz first project\mrl shabihsaz first project\mrl shabihsaz first project.cpp(66,31): warning C4101: 'placec1': unreferenced local variable
+E:\test c++\mrl shabihsaz first project\mrl shabihsaz first project\mrl shabihsaz first project.cpp(66,40): warning C4101: 'placer2': unreferenced local variable
