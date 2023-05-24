@@ -25,10 +25,6 @@ public:
 		}//for i
 		displayBoard();
 	}//Board
-	~Board()
-	{
-
-	}//~Board
 
 	void displayBoard()
 	{
@@ -98,10 +94,6 @@ public:
 		setName( pname );
 		setSign( p );
 	}//Players
-	~Players()
-	{
-
-	}//~players
 
 	void setName( string pname ) 
 	{
